@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          yang <code>src/App.js</code> hah
+          何玉林 <code>是</code> 傻子
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://baike.baidu.com/item/%E5%82%BB%E5%AD%90/1203902?fr=aladdin"
           target="_blank"
           rel="noopener noreferrer"
         >
