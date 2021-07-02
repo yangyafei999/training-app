@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          何玉林 <code>是</code> 傻子
+          我 <code>爱你</code> 祖国！
         </p>
         <a
           className="App-link"
-          href="https://baike.baidu.com/item/%E5%82%BB%E5%AD%90/1203902?fr=aladdin"
+          href="http://www.wenming.cn/specials/100/jj_52318/"
           target="_blank"
           rel="noopener noreferrer"
         >
