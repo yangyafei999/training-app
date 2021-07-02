@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/training-app/static/css/main.d1706e5d.chunk.css",
-    "main.js": "/training-app/static/js/main.5de73ae6.chunk.js",
-    "main.js.map": "/training-app/static/js/main.5de73ae6.chunk.js.map",
+    "main.css": "/training-app/static/css/main.1843f656.chunk.css",
+    "main.js": "/training-app/static/js/main.e64f0a3f.chunk.js",
+    "main.js.map": "/training-app/static/js/main.e64f0a3f.chunk.js.map",
     "runtime-main.js": "/training-app/static/js/runtime-main.d7ac4979.js",
     "runtime-main.js.map": "/training-app/static/js/runtime-main.d7ac4979.js.map",
     "static/js/2.0776a14c.chunk.js": "/training-app/static/js/2.0776a14c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.dd157172.chunk.js": "/training-app/static/js/3.dd157172.chunk.js",
     "static/js/3.dd157172.chunk.js.map": "/training-app/static/js/3.dd157172.chunk.js.map",
     "index.html": "/training-app/index.html",
-    "static/css/main.d1706e5d.chunk.css.map": "/training-app/static/css/main.d1706e5d.chunk.css.map",
+    "static/css/main.1843f656.chunk.css.map": "/training-app/static/css/main.1843f656.chunk.css.map",
     "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/training-app/static/js/2.0776a14c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/training-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d7ac4979.js",
     "static/js/2.0776a14c.chunk.js",
-    "static/css/main.d1706e5d.chunk.css",
-    "static/js/main.5de73ae6.chunk.js"
+    "static/css/main.1843f656.chunk.css",
+    "static/js/main.e64f0a3f.chunk.js"
   ]
 }
